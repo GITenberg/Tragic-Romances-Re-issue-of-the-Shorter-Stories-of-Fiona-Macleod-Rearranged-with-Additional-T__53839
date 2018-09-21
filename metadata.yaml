@@ -1,0 +1,29 @@
+_repo: Tragic-Romances-Re-issue-of-the-Shorter-Stories-of-Fiona-Macleod-Rearranged-with-Additional-T__53839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: Morag of the Glen -- The Dàn-nan-Ròn -- The sin-eater -- The ninth
+  wave -- The judgment o' God -- Green branches -- The archer.
+title: "Tragic Romances\r\nRe-issue of the Shorter Stories of Fiona Macleod; Rearranged,\
+  \ with Additional Tales"
+url: http://www.gutenberg.org/ebooks/53839
