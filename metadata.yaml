@@ -1,5 +1,8 @@
 _repo: Tragic-Romances-Re-issue-of-the-Shorter-Stories-of-Fiona-Macleod-Rearranged-with-Additional-T__53839
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53839-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharp, William
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/337
     wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53839#Tragic-Romances-Re-issue-of-the-Shorter-Stories-of-Fiona-Macleod-Rearranged-with-Additional-T_
 gutenberg_issued: '2016-12-30'
 gutenberg_type: Text
 identifiers:
